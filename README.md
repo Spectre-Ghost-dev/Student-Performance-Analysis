@@ -72,6 +72,8 @@ Color Gradient: Shades of green represent increasing performance.
 * **Scatter Plot:** Exam Score vs. Sleep Hours (r = 0.46) → moderate positive trend.
 * **Donut Chart:** Confirms 1:1 mapping between numeric ranges and qualitative bands.
 
+![STUDENT ANALYSIS DASHBOARD](https://github.com/Spectre-Ghost-dev/Student-Performance-Analysis/blob/main/Final%20Student%20Dashboard%20Design.jpg)
+
 ---
 
 ## Major Insights
@@ -92,7 +94,7 @@ Color Gradient: Shades of green represent increasing performance.
 
 ---
 
-![STUDENT ANALYSIS DASHBOAR](Dhttps://github.com/Spectre-Ghost-dev/Student-Performance-Analysis/blob/main/Final%20Student%20Dashboard%20Design.jpg)
+
 
 ## Next Steps
 
