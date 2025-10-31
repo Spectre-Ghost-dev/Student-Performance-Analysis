@@ -92,6 +92,8 @@ Color Gradient: Shades of green represent increasing performance.
 
 ---
 
+![https://github.com/Spectre-Ghost-dev/Student-Performance-Analysis/blob/main/Final%20Student%20Dashboard%20Design.jpg]
+
 ## Next Steps
 
 * Add predictive modeling (Regression / ML) to forecast exam outcomes.
